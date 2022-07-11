@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jmero01
+- 👋 Hi, I’m Juan
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning the bacis
+- 🌱 I’m currently learning the basic
 - 💞️ I'm looking to collaborate on very basic stuffs :)
 - 📫 How to reach me jmero01@hotmail.com
 
